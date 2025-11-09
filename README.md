@@ -15,7 +15,7 @@ Love clean UI, optimized backend, and smooth user experiences.
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterjee&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahad-Yousaf&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masterjee&layout=compact&theme=tokyonight)
 
 ---
