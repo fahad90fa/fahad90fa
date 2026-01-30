@@ -130,13 +130,13 @@ me.say_hi()
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fahad90fa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad90fa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fahad90fa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=fahad90fa&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahad90fa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=fahad90fa&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributors" />
 </p>
 
 ---
@@ -144,7 +144,7 @@ me.say_hi()
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahad90fa&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahad90fa&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -179,7 +179,7 @@ DevOps & Cloud:
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad90fa&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad90fa&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
