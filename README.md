@@ -1,324 +1,227 @@
-# 👋 Hi, I'm Fahad Yousaf
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Yousaf;Full+Stack+Developer+%7C+Cybersecurity+Expert" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Senior+Full-Stack+Engineer;Cybersecurity+Expert;MERN+Stack+Specialist;10%2B+Years+Building+Secure+Systems)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="followers" />
+</p>
 
-</div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Fahad-Yousaf&color=blueviolet&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/Fahad-Yousaf?style=for-the-badge&logo=github&color=blue)](https://github.com/Fahad-Yousaf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourname)
-
-</div>
+<p align="center">
+  <a href="https://fahadyousaf.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:fahadyousaf90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+923320407479">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Elite Developer | Security Architect | System Designer
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```typescript
-const fahad = {
-    location: "🌍 Available Worldwide",
-    experience: "10+ years in production environments",
-    expertise: ["Full-Stack Architecture", "Cybersecurity", "DevSecOps"],
-    currentFocus: "Building ultra-secure, scalable enterprise systems",
-    available: "Open for high-impact projects & consulting"
-};
+### 👨‍💻 About Me
+
+```python
+class FahadYousaf:
+    def __init__(self):
+        self.name = "Fahad Yousaf"
+        self.role = ["Full Stack Developer", "Cybersecurity Expert"]
+        self.location = "Pakistan 🇵🇰"
+        self.languages = ["Python", "JavaScript", "C/C++", "Go", "Rust"]
+        self.contact = {
+            "email": "fahadyousaf90@gmail.com",
+            "phone": "+92 332 0407479",
+            "portfolio": "https://fahadyousaf.vercel.app/"
+        }
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = FahadYousaf()
+me.say_hi()
 ```
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 🔥 What I Bring to the Table
-
-- ⚡ **10+ years** of battle-tested development experience
-- 🛡️ **Cybersecurity expert** – penetration testing, secure code audits
-- 🏗️ **System architect** – designed & scaled apps serving 100K+ users
-- 🚀 **Performance optimizer** – reduced load times by up to 80%
-- 🔐 **Zero-trust security** implementations in production
-- 📊 Led teams on **enterprise-grade** SaaS platforms
-- 🌐 Expert in **cloud infrastructure** (AWS, Azure, GCP)
 
 <br clear="right"/>
 
 ---
 
-## 💼 Professional Expertise
+### 🛠️ Tech Stack
+
+#### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+#### **Database & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+#### **Cybersecurity & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+</p>
+
+---
+
+### 🔥 Expertise Areas
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Mastery
-```javascript
-const frontend = {
-  frameworks: ['React.js', 'Next.js 14', 'Vue.js'],
-  styling: ['Tailwind CSS', 'SASS', 'Styled Components'],
-  stateManagement: ['Redux Toolkit', 'Zustand', 'Recoil'],
-  animation: ['Framer Motion', 'GSAP', 'Three.js'],
-  testing: ['Jest', 'React Testing Library', 'Cypress'],
-  performance: ['Lighthouse 95+', 'Core Web Vitals']
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Architecture
-```python
-backend = {
-    "languages": ["Node.js", "Python", "Go"],
-    "frameworks": ["Express", "NestJS", "FastAPI"],
-    "api_design": ["REST", "GraphQL", "gRPC"],
-    "microservices": ["Docker", "Kubernetes"],
-    "message_queues": ["RabbitMQ", "Redis", "Kafka"],
-    "real_time": ["Socket.io", "WebRTC"]
-}
-```
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+      <h4>🌐 Full Stack Development</h4>
+      <p>Building scalable web applications with modern frameworks and best practices</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+      <h4>🔒 Cybersecurity</h4>
+      <p>Penetration testing, vulnerability assessment, and security architecture</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+      <h4>☁️ Cloud & DevOps</h4>
+      <p>Infrastructure automation, CI/CD pipelines, and cloud deployment</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+      <h4>🤖 System Programming</h4>
+      <p>Low-level programming, reverse engineering, and firmware development</p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🛡️ Cybersecurity Arsenal
+### 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-| Category | Technologies |
-|----------|-------------|
-| **Security Testing** | `OWASP Top 10` `Burp Suite` `Metasploit` `Nmap` `Wireshark` |
-| **Encryption** | `AES-256` `RSA` `SSL/TLS` `Hashing (bcrypt, Argon2)` |
-| **Authentication** | `OAuth 2.0` `JWT` `SAML` `MFA` `Biometric Auth` |
-| **DevSecOps** | `Snyk` `SonarQube` `HashiCorp Vault` `Security Headers` |
-| **Compliance** | `GDPR` `HIPAA` `SOC 2` `PCI-DSS` |
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-## 🗄️ Database & Cloud Expertise
+### 🏆 GitHub Trophies
 
-<div align="center">
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 📊 GitHub Performance Analytics
+### 💼 Services I Offer
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fahad-Yousaf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahad-Yousaf&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" />
-</div>
+```yaml
+Full Stack Development:
+  - Custom Web Applications
+  - E-commerce Solutions
+  - Progressive Web Apps (PWA)
+  - REST & GraphQL APIs
+  - Real-time Applications (WebSockets)
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Yousaf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=10" />
-</div>
+Cybersecurity:
+  - Penetration Testing & Ethical Hacking
+  - Vulnerability Assessment
+  - Security Audits & Code Review
+  - Malware Analysis & Reverse Engineering
+  - Security Training & Consultation
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fahad-Yousaf&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🚀 Featured Enterprise Projects
-
-<div align="center">
-
-### 🏆 Production Systems I've Built
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 SecureAuth Platform
-**Enterprise SSO & Identity Management**
-
-- 🎯 Handles **500K+ monthly active users**
-- 🛡️ Zero-trust security architecture
-- ⚡ 99.99% uptime SLA
-- 🔒 GDPR & SOC 2 compliant
-
-**Tech:** `Next.js` `NestJS` `PostgreSQL` `Redis` `AWS`
-
-[View Architecture →](#)
-
-</td>
-<td width="50%">
-
-### 📊 FinTech Analytics Dashboard
-**Real-time Financial Intelligence**
-
-- 💰 Processes **$100M+ transactions/month**
-- 📈 Real-time data streaming
-- 🔍 AI-powered fraud detection
-- 🚀 Sub-100ms query response
-
-**Tech:** `React` `Node.js` `MongoDB` `Kafka` `TensorFlow`
-
-[Case Study →](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏥 HealthCare SaaS
-**HIPAA-Compliant Patient Portal**
-
-- 🏥 Serves **50+ healthcare providers**
-- 🔐 End-to-end encryption
-- 📱 Native mobile apps (React Native)
-- 🤖 AI appointment scheduling
-
-**Tech:** `Next.js` `Express` `PostgreSQL` `Docker` `Azure`
-
-[Live Demo →](#)
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce Microservices
-**Scalable Multi-Vendor Marketplace**
-
-- 🌐 **10K+ concurrent users**
-- 🔄 Event-driven architecture
-- 💳 Payment gateway integration
-- 📦 Real-time inventory management
-
-**Tech:** `React` `NestJS` `Microservices` `Redis` `K8s`
-
-[GitHub →](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Certifications & Credentials
-
-<div align="center">
-
-| Security | Cloud | Development |
-|:--------:|:-----:|:-----------:|
-| ![CEH](https://img.shields.io/badge/CEH-Certified-red?style=for-the-badge) | ![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect-orange?style=for-the-badge) | ![Meta Frontend](https://img.shields.io/badge/Meta-Frontend_Developer-blue?style=for-the-badge) |
-| ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-red?style=for-the-badge) | ![Azure Developer](https://img.shields.io/badge/Azure-Developer-0078D4?style=for-the-badge) | ![Node.js Certified](https://img.shields.io/badge/Node.js-Certified-green?style=for-the-badge) |
-| ![OSCP](https://img.shields.io/badge/OSCP-In_Progress-yellow?style=for-the-badge) | ![Docker Certified](https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge) | ![MongoDB Associate](https://img.shields.io/badge/MongoDB-Associate-47A248?style=for-the-badge) |
-
-</div>
-
----
-
-## 💡 Current Focus & Availability
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Open for] --> B[Enterprise Consulting]
-    A --> C[High-Stakes Projects]
-    A --> D[Security Audits]
-    A --> E[System Architecture Design]
-    
-    style A fill:#00F7F7,stroke:#fff,stroke-width:2px,color:#000
-    style B fill:#FF6D00,stroke:#fff,stroke-width:2px
-    style C fill:#FF6D00,stroke:#fff,stroke-width:2px
-    style D fill:#FF6D00,stroke:#fff,stroke-width:2px
-    style E fill:#FF6D00,stroke:#fff,stroke-width:2px
+DevOps & Cloud:
+  - AWS/Azure/GCP Cloud Solutions
+  - CI/CD Pipeline Setup
+  - Docker & Kubernetes Orchestration
+  - Infrastructure as Code (Terraform)
+  - Monitoring & Logging Solutions
 ```
 
-</div>
+---
 
-### 🎯 Specialized Services
-- 🔒 **Security Audits & Penetration Testing**
-- 🏗️ **System Architecture & Design Consultation**
-- ⚡ **Performance Optimization & Scaling**
-- 🚀 **CI/CD Pipeline Implementation**
-- 📚 **Technical Leadership & Mentoring**
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+### 🐍 Contribution Snake
 
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahad-Yousaf&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-### 📬 Reach Out for High-Impact Projects
-
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yourname">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:fahad@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-### 💼 Available for:
-**Enterprise Projects** • **Security Consulting** • **Technical Leadership** • **Architecture Design**
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-<div align="center">
+### 💡 Recent Projects
 
-### 💭 Professional Philosophy
+<!-- You can add your pinned repositories here or customize with actual projects -->
 
-*"Security is not a product, but a process. Great software isn't just functional—it's resilient, scalable, and built with precision."*
-
----
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-⭐ **If my expertise aligns with your needs, let's build something exceptional together**
-
-![Snake animation](https://github.com/Fahad-Yousaf/Fahad-Yousaf/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT2&theme=tokyonight&hide_border=true" />
+</a>
 
 ---
 
-<div align="center">
+### 📫 Let's Connect
 
-**© 2024 Fahad Yousaf | Senior Full-Stack Engineer & Cybersecurity Expert**
+<p align="center">
+  <a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00ADD8?style=for-the-badge" /></a>
+  <a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/📧_Email-fahadyousaf90@gmail.com-D14836?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+for+collaborations+and+opportunities!+%F0%9F%92%BC" alt="Footer Typing SVG" />
+</p>
