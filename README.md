@@ -187,9 +187,44 @@ DevOps & Cloud:
 
 <div align="center">
 
-<!-- Replace PROJECT_NAME with your actual repository names -->
-  
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fahad90fa&repo=uefi-rootkit&theme=algolia&hide_border=true)](https://github.com/fahad90fa/uefi-rootkit)
+#### 🔒 UEFI Rootkit - Tier-0 Firmware Persistence Framework
+
+<table>
+<tr>
+<td width="60%">
+
+**Advanced firmware-level rootkit framework for authorized security research**
+
+🎯 **Key Features:**
+- ⚡ **Tier-0 Pre-Boot Execution** - Runs 50-200ms after power-on
+- 🛡️ **SMM Ring -2 Access** - Highest x86 privilege level
+- 💾 **Survives OS Reinstall** - Firmware-level persistence in SPI flash
+- 🔓 **Boot Guard Bypass** - Executes before authenticated boot
+- 🌐 **Full C2 Infrastructure** - Flask backend + React dashboard
+- 🔐 **ChaCha20/AES-256** - End-to-end encrypted communications
+- 📦 **Supply Chain Ready** - Automated firmware injection pipeline
+
+**Tech Stack:** C, EDK2, Python, Flask, React, ChaCha20, PostgreSQL
+
+</td>
+<td width="40%">
+
+[![UEFI Rootkit](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fahad90fa&repo=uefi-rootkit&theme=algolia&hide_border=true)](https://github.com/fahad90fa/uefi-rootkit)
+
+**Components:**
+- 🔹 SEC Phase Implant (1.3KB)
+- 🔹 DXE Option ROM Hooks
+- 🔹 SMM Persistence Layer
+- 🔹 C2 Server & Dashboard
+- 🔹 NVRAM Bridge Agents
+
+**Status:** ![Status](https://img.shields.io/badge/Phase%2011-Complete-success)
+
+[**View Project →**](https://github.com/fahad90fa/uefi-rootkit)
+
+</td>
+</tr>
+</table>
 
 </div>
 
