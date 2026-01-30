@@ -129,23 +129,22 @@ me.say_hi()
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fahad90fa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=fahad90fa&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fahad90fa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=fahad90fa&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributors" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahad90fa&theme=algolia&hide_border=true" alt="fahad90fa" />
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahad90fa&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahad90fa&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
 
 ---
 
@@ -178,32 +177,25 @@ DevOps & Cloud:
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad90fa&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad90fa&bg_color=050f2c&color=0099ff&line=0099ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 🐍 Contribution Snake
+### 💡 Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahad90fa/fahad90fa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahad90fa/fahad90fa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fahad90fa/fahad90fa/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
 
----
+<!-- Replace PROJECT_NAME with your actual repository names -->
+  
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fahad90fa&repo=uefi-rootkit&theme=algolia&hide_border=true)](https://github.com/fahad90fa/uefi-rootkit)
 
-### 💡 Recent Projects
+</div>
 
-<!-- You can add your pinned repositories here or customize with actual projects -->
-
-<a href="https://github.com/fahad90fa/PROJECT1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahad90fa&repo=PROJECT1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/fahad90fa/PROJECT2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahad90fa&repo=PROJECT2&theme=tokyonight&hide_border=true" />
-</a>
+<!-- To add more projects, uncomment and replace with your repo names:
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fahad90fa&repo=PROJECT_NAME&theme=algolia&hide_border=true)](https://github.com/fahad90fa/PROJECT_NAME)
+-->
 
 ---
 
