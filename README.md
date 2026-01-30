@@ -143,7 +143,7 @@ me.say_hi()
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahad90fa&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahad90fa&theme=darkhub&no-frame=false&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -204,8 +204,6 @@ DevOps & Cloud:
 <p align="center">
   <a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00ADD8?style=for-the-badge" /></a>
   <a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/📧_Email-fahadyousaf90@gmail.com-D14836?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
