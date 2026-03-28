@@ -99,7 +99,10 @@ class FahadYousaf:
 <div align="center">
 
 <img height="150" src="https://github-readme-stats-six-blue-16.vercel.app/api?username=fahad90fa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&ring_color=58a6ff" />
-<img height="150" src="https://github-readme-stats-six-blue-16.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&size_weight=0.5&count_weight=0.5" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-stats-six-blue-16.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&langs_count=20&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&size_weight=0.5&count_weight=0.5&card_width=800&custom_title=All%20Languages" />
 
 <br/>
 
