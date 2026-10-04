@@ -102,7 +102,7 @@ class FahadYousaf:
 <br/><br/>
 
 <!-- ALL languages: full count, includes private repos -->
-<img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=donut&langs_count=20&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=All%20Languages%20Used" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&langs_count=20&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=All%20Languages%20Used" />
 
 </div>
 
