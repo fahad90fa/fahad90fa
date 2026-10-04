@@ -1,152 +1,156 @@
+<!-- ========================================================= -->
+<!--                  FAHAD YOUSAF  ·  README                  -->
+<!--        Zero-config · 100% animated · all SVG/APIs         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Fahad%20Yousaf&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Researcher&descSize=14&descColor=8b949e&descAlignY=52&animation=fadeIn" width="100%" />
+<!-- ===== HERO ===== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,55:1f6feb,100:58a6ff&height=210&section=header&text=FAHAD%20YOUSAF&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Offensive%20Security%20Researcher&descSize=16&descColor=e6edf3&descAlignY=65&animation=fadeIn" width="100%" />
 
-<a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fahadyousaf.vercel.app-58a6ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/Email-fahadyousaf90@gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/fahad90fa"><img src="https://img.shields.io/github/followers/fahad90fa?label=Follow&style=flat-square&logo=github&color=58a6ff&labelColor=0d1117" /></a>
+<!-- ===== STATUS BAR ===== -->
+<a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/●_PORTFOLIO-fahadyousaf.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/●_CONTACT-open-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/fahad90fa"><img src="https://img.shields.io/github/followers/fahad90fa?style=for-the-badge&logo=github&label=FOLLOW&color=1f6feb&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=fahad90fa&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=VISITORS" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Building+secure+systems+from+frontend+to+firmware;Turning+vulnerabilities+into+defenses" />
+<!-- ===== LIVE TERMINAL TYPING ===== -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=52&lines=root%40fahad%3A~%24+whoami;%3E+building+secure+systems%2C+frontend+to+firmware;%3E+turning+vulnerabilities+into+defenses;%3E+full+stack+engineering+%2B+offensive+security" />
 
 </div>
 
----
+<!-- ===== NEON DIVIDER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
 
-## `> whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `system.whoami()`
 
 ```python
 class FahadYousaf:
-    def __init__(self):
-        self.location    = "Pakistan"
-        self.roles       = ["Full Stack Developer", "Security Researcher"]
-        self.languages   = ["Python", "JavaScript", "TypeScript", "Go", "Rust", "C"]
-        self.focus       = ["Web Apps", "Pentesting", "Systems Programming"]
+    """ Full Stack Developer · Security Researcher """
 
-    def current_work(self):
+    def __init__(self):
+        self.location   = "Pakistan"  # UTC+05:00
+        self.roles      = ["Full Stack Dev", "Offensive Security"]
+        self.focus      = ["Web Apps", "Pentesting", "Systems Programming"]
+        self.philosophy = "Break it to understand it. Build it to defend it."
+
+    def current_work(self) -> dict:
         return {
-            "building":    "Full stack applications & security tooling",
-            "exploring":   "Systems programming & cloud-native architecture",
-            "researching": "Firmware security & vulnerability analysis"
+            "building":    "Full stack applications & custom security tooling",
+            "exploring":   "Cloud-native architecture & systems programming",
+            "researching": "Firmware security & vulnerability analysis",
         }
+
+    def say_hi(self) -> str:
+        return "Let's build something that doesn't get owned."
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
 
-## `> tech_stack`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔤 Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**🛡️ DevOps & Security**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## `> services`
-
-| 🌐 Web Dev | 🔐 Security | ☁️ Cloud/DevOps | 🔧 Systems |
-|:---:|:---:|:---:|:---:|
-| Full Stack Apps | Penetration Testing | CI/CD Pipelines | Low-Level Dev |
-| REST/GraphQL APIs | Vuln Assessment | Container Orchestration | Firmware Analysis |
-| Real-Time Systems | Code Audits | Infrastructure as Code | Reverse Engineering |
-
----
-
-## `> stats`
+## 🧰 `arsenal` — full tech stack
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats-six-blue-16.vercel.app/api/top-langs/?username=fahad90fa&layout=compact&langs_count=20&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&size_weight=0.5&count_weight=0.5&card_width=800&custom_title=All%20Languages" />
+**— LANGUAGES —**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,go,rust,c,cpp,bash,lua,php&theme=dark" />
 
-<a href="https://git.io/streak-stats">
-  <img width="55%" src="https://streak-stats.demolab.com?user=fahad90fa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" />
-</a>
+**— FRONTEND —**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,sass,vite,threejs&theme=dark" />
+
+**— BACKEND & DATA —**
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,express,graphql,postgres,mongodb,redis,mysql&theme=dark" />
+
+**— CLOUD · DEVOPS · SECURITY —**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,terraform,ansible,githubactions,git&theme=dark" />
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
 
-## `> featured_projects`
+## ⚡ `services.run()`
+
+<table align="center">
+<tr>
+<td align="center" width="25%">🌐<br/><b>Web Dev</b><br/><sub>Full Stack Apps<br/>REST / GraphQL APIs<br/>Real-Time Systems</sub></td>
+<td align="center" width="25%">🔐<br/><b>Security</b><br/><sub>Penetration Testing<br/>Vuln Assessment<br/>Code Audits</sub></td>
+<td align="center" width="25%">☁️<br/><b>Cloud / DevOps</b><br/><sub>CI/CD Pipelines<br/>Container Orchestration<br/>Infra as Code</sub></td>
+<td align="center" width="25%">🔧<br/><b>Systems</b><br/><sub>Low-Level Dev<br/>Firmware Analysis<br/>Reverse Engineering</sub></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
+
+## 📊 `git.stats --all`
+
+<div align="center">
+
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=fahad90fa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=prs_merged,reviews&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img width="46%" src="https://streak-stats.demolab.com?user=fahad90fa&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+
+<br/><br/>
+
+<!-- ALL languages: full count, includes private repos -->
+<img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=donut&langs_count=20&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=All%20Languages%20Used" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
+
+## 🧊 `contribution.calendar --3d`
+
+<div align="center">
+
+<!-- 3D isometric animated render — generated by .github/workflows/profile-3d.yml -->
+<!-- Shows a broken-image icon until the Action runs ONCE (Actions tab → Run workflow) -->
+<img width="90%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D animated contribution calendar" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
+
+## 🔬 `featured.projects`
 
 <div align="center">
 
 <a href="https://github.com/fahad90fa/uefi-rootkit">
-  <img width="55%" src="https://github-readme-stats-six-blue-16.vercel.app/api/pin/?username=fahad90fa&repo=uefi-rootkit&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=fahad90fa&repo=uefi-rootkit&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
 
-> **🔬 UEFI Rootkit** — Firmware-level persistence framework for **authorized security research**.
-> Built with `C` · `EDK2` · `Python` · `Flask` · `React`
+> ### 🔬 UEFI Rootkit
+> Firmware-level persistence framework for **authorized security research**.
+> Demonstrates bootkit techniques, SMM hooks, and detection evasion in a controlled lab.
+>
+> `C` · `EDK2` · `Assembly` · `Python` · `Flask` · `React`
 
----
-
-## `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahad90fa&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=1a2332&custom_title=Contribution%20Graph&height=280" width="90%" />
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=fahad90fa&style=flat-square&color=58a6ff&labelColor=0d1117&label=Profile+Views" />
+### 💬 `let's connect`
 
-<br/><br/>
+<a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/fahad90fa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-**Open to collaborations, security projects & opportunities.**
+<br/>
 
-<a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/📬_Get_In_Touch-58a6ff?style=flat-square&labelColor=0d1117" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+*Open to collaborations, security research & high-impact opportunities.*
 
 </div>
+
+<!-- ===== ANIMATED FOOTER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=Break%20it.%20Build%20it.%20Defend%20it.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%" />
