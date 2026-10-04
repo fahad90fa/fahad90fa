@@ -1,98 +1,180 @@
 <!-- ========================================================= -->
 <!--                  FAHAD YOUSAF  ·  README                  -->
-<!--        Zero-config · 100% animated · all SVG/APIs         -->
+<!--     Penetration Tester · Offensive Security · Exploit     -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <!-- ===== HERO ===== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,55:1f6feb,100:58a6ff&height=210&section=header&text=FAHAD%20YOUSAF&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Offensive%20Security%20Researcher&descSize=16&descColor=e6edf3&descAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,55:1f6feb,100:58a6ff&height=210&section=header&text=FAHAD%20YOUSAF&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Penetration%20Tester%20%E2%80%A2%20Offensive%20Security%20%26%20Exploit%20Development&descSize=15&descColor=e6edf3&descAlignY=65&animation=fadeIn" width="100%" />
 
 <!-- ===== STATUS BAR ===== -->
-<a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/●_PORTFOLIO-fahadyousaf.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/●_CONTACT-open-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="./Fahad_Yousaf_Resume.pdf"><img src="https://img.shields.io/badge/●_RÉSUMÉ-view%20PDF-58a6ff?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/●_PORTFOLIO-online-1f6feb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/●_EMAIL-open-1f6feb?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://github.com/fahad90fa"><img src="https://img.shields.io/github/followers/fahad90fa?style=for-the-badge&logo=github&label=FOLLOW&color=1f6feb&labelColor=0d1117" /></a>
 <img src="https://komarev.com/ghpvc/?username=fahad90fa&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=VISITORS" />
 
 <br/><br/>
 
 <!-- ===== LIVE TERMINAL TYPING ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=52&lines=root%40fahad%3A~%24+whoami;%3E+building+secure+systems%2C+frontend+to+firmware;%3E+turning+vulnerabilities+into+defenses;%3E+full+stack+engineering+%2B+offensive+security" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2900&pause=800&color=58A6FF&center=true&vCenter=true&width=780&height=52&lines=root%40fahad%3A~%24+whoami;%3E+penetration+tester+%E2%80%A2+exploit+developer;%3E+i+break+it+to+understand+it%2C+then+defend+it;%3E+web+%E2%80%A2+api+%E2%80%A2+red+team+%E2%80%A2+low-level+R%26D" />
 
 </div>
 
-<!-- ===== NEON DIVIDER ===== -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> `system.whoami()`
 
 ```python
 class FahadYousaf:
-    """ Full Stack Developer · Security Researcher """
+    """ Penetration Tester · Offensive Security & Exploit Development """
 
     def __init__(self):
-        self.location   = "Pakistan"  # UTC+05:00
-        self.roles      = ["Full Stack Dev", "Offensive Security"]
-        self.focus      = ["Web Apps", "Pentesting", "Systems Programming"]
-        self.philosophy = "Break it to understand it. Build it to defend it."
+        self.location   = "Lahore, Pakistan"          # UTC+05:00
+        self.experience = "3+ years · authorized engagements"
+        self.titles     = ["Penetration Tester", "Red Teamer", "Exploit Developer"]
+        self.day_job    = ["Web / API Pentest", "Exploit & Tooling R&D", "SOC / Blue Team"]
 
-    def current_work(self) -> dict:
+    def engagement(self) -> dict:
         return {
-            "building":    "Full stack applications & custom security tooling",
-            "exploring":   "Cloud-native architecture & systems programming",
-            "researching": "Firmware security & vulnerability analysis",
+            "recon":        "OSINT · enumeration · attack-surface mapping",
+            "exploit":      "SQLi · XSS · IDOR · SSRF · auth-bypass  →  PoC chains",
+            "post_exploit": "privilege escalation · lateral movement · C2",
+            "deliver":      "CVSS-scored reports mapped to OWASP Top 10 & MITRE ATT&CK",
         }
 
-    def say_hi(self) -> str:
-        return "Let's build something that doesn't get owned."
+    def motto(self) -> str:
+        return "Break it to understand it. Build it to defend it."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
 
-## 🧰 `arsenal` — full tech stack
+## 📊 `impact --verified`
 
 <div align="center">
 
-**— LANGUAGES —**
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,rust,c,cpp,bash,lua,php&theme=dark" />
-
-**— FRONTEND —**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,sass,vite,threejs&theme=dark" />
-
-**— BACKEND & DATA —**
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,flask,express,graphql,postgres,mongodb,redis,mysql&theme=dark" />
-
-**— CLOUD · DEVOPS · SECURITY —**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,terraform,ansible,githubactions,git&theme=dark" />
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Web_&_API_Apps_Pentested-15%2B-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Verified_Remediation-100%25-3fb950?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Recon→Exploit_Time-−60%25-58a6ff?style=for-the-badge&labelColor=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/Client_Satisfaction-4.9%2F5_★-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/EverCrypt--Bootkit-★_50%2B-f85149?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SOC_False--Positives-−35%25-3fb950?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
 
+## 🧰 `arsenal`
+
+<div align="center">
+
+**— LANGUAGES & DATABASES —**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,js,mysql,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/x86/x64_Assembly-525252?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+
+**— RECON · EXPLOITATION · RED TEAM —**
+
+<img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Parrot_OS-20C5C6?style=for-the-badge&logo=parrotsecurity&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117" />
+
+**— REVERSE ENGINEERING & EXPLOIT DEV —**
+
+<img src="https://img.shields.io/badge/IDA_Pro-AF2EFF?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/x64dbg-2E7D32?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white&labelColor=0d1117" />
+
+**— BLUE TEAM / SOC —**
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Wazuh-3B8DBD?style=for-the-badge&logo=wazuh&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MS_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/EDR_·_SIEM-512BD4?style=for-the-badge&labelColor=0d1117" />
+
+**— FRAMEWORKS & STANDARDS —**
+
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PTES-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MITRE_ATT&CK-C9252B?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NIST-004B87?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CIS_Benchmarks-58a6ff?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
+
 ## ⚡ `services.run()`
 
 <table align="center">
 <tr>
-<td align="center" width="25%">🌐<br/><b>Web Dev</b><br/><sub>Full Stack Apps<br/>REST / GraphQL APIs<br/>Real-Time Systems</sub></td>
-<td align="center" width="25%">🔐<br/><b>Security</b><br/><sub>Penetration Testing<br/>Vuln Assessment<br/>Code Audits</sub></td>
-<td align="center" width="25%">☁️<br/><b>Cloud / DevOps</b><br/><sub>CI/CD Pipelines<br/>Container Orchestration<br/>Infra as Code</sub></td>
-<td align="center" width="25%">🔧<br/><b>Systems</b><br/><sub>Low-Level Dev<br/>Firmware Analysis<br/>Reverse Engineering</sub></td>
+<td align="center" width="25%">🎯<br/><b>Offensive</b><br/><sub>Web / API Pentest<br/>Red Teaming<br/>Vuln Assessment</sub></td>
+<td align="center" width="25%">💥<br/><b>Exploit R&D</b><br/><sub>Buffer Overflow / ROP<br/>Shellcode & PoCs<br/>Reverse Engineering</sub></td>
+<td align="center" width="25%">🛡️<br/><b>Blue Team / SOC</b><br/><sub>SIEM Rule Tuning<br/>Incident Response<br/>Threat Detection</sub></td>
+<td align="center" width="25%">🧱<br/><b>Systems</b><br/><sub>RHEL Hardening (CIS)<br/>Firmware / Bootkit R&D<br/>Security Automation</sub></td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
+
+## 💻 `live_engagement --replay`
+
+<div align="center">
+
+<!-- Custom hand-built animated SVG — loops a full red-team session -->
+<img width="92%" src="./terminal.svg" alt="Animated red-team engagement replay" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
 
-## 📊 `git.stats --all`
+## 🧭 `experience --timeline`
+
+### 🎯 Penetration Tester — Freelance &nbsp;·&nbsp; `2022 – Present`
+`Remote / Lahore` · US-based clients under NDA
+- Chained **SQLi / XSS / IDOR / SSRF / broken-auth** across **15+ production web apps & APIs** into working PoC exploit chains → **100% verified remediation** on retest.
+- Built **Python / C / Bash** automation for recon, enumeration & post-exploitation → cut recon-to-exploitation time **−60%**; sustained **4.9/5** client rating with CVSS-scored, developer-ready reports.
+
+### 🔵 SOC Analyst (Level 1) — SK Cyber Technologies &nbsp;·&nbsp; `2023 – 2025`
+`Lahore` · 24/7 environment
+- Tuned SIEM correlation rules & SOC playbooks → **−35% false positives**, improved MTTD; held **sub-15-min** triage on all P1/P2 alerts.
+- Contained **3 active malware intrusions + 2 phishing campaigns** before lateral movement; authored **12 standardized IR runbooks** (−25% L1→L2 handoff time).
+
+### 🟥 Red Hat (RHEL) Operator — CyberSilo &nbsp;·&nbsp; `2020 – 2022`
+`Lahore`
+- CIS-hardened **30+ RHEL production servers** (SELinux / auditd / firewalld) → eliminated **100% of critical misconfigurations** in a 60-day window.
+- Automated patch-cycle & baseline validation in **Bash / Python** → **−40%** fleet-wide remediation time.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
+
+## 🔬 `featured.research`
+
+<div align="center">
+
+<a href="https://github.com/fahad90fa/EverCrypt-Bootkit">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=fahad90fa&repo=EverCrypt-Bootkit&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+> ### 🧬 EverCrypt-Bootkit &nbsp; `★ 50+`
+> Open-source PoC demonstrating **MBR-stage persistence** and **boot-level defense evasion**.
+> Cited in 2 security research threads. &nbsp;·&nbsp; `C` · `Assembly` · `x64dbg`
+>
+> ### 🧱 Custom Perimeter Firewall & WAF-Bypass Research
+> Engineered a packet-filtering firewall handling **10k+ daily packets**; published **WAF-bypass** and
+> **memory-corruption** research, distilled into a repeatable, engagement-ready testing methodology.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
+
+## 📈 `git.stats`
 
 <div align="center">
 
@@ -101,54 +183,31 @@ class FahadYousaf:
 
 <br/><br/>
 
-<!-- ALL languages: full count, includes private repos -->
-<img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=donut&langs_count=20&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=All%20Languages%20Used" />
+<img width="62%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad90fa&layout=donut&langs_count=20&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Languages%20Across%20All%20Repos" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
 
-## 🧊 `contribution.calendar --3d`
+## 🎓 `education --certs`
 
-<div align="center">
-
-<!-- 3D isometric animated render — generated by .github/workflows/profile-3d.yml -->
-<!-- Shows a broken-image icon until the Action runs ONCE (Actions tab → Run workflow) -->
-<img width="90%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D animated contribution calendar" />
-
-</div>
+- 🎓 **B.S. in Cyber Security** — University of Management & Technology (UMT), Lahore · `2025`
+- 📜 **Cyber Security, Levels 1–3 (Grade A)** — Arfa Karim Technology Incubator (IQA, USA) · `2026`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=3" width="100%" />
-
-## 🔬 `featured.projects`
-
-<div align="center">
-
-<a href="https://github.com/fahad90fa/uefi-rootkit">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=fahad90fa&repo=uefi-rootkit&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-> ### 🔬 UEFI Rootkit
-> Firmware-level persistence framework for **authorized security research**.
-> Demonstrates bootkit techniques, SMM hooks, and detection evasion in a controlled lab.
->
-> `C` · `EDK2` · `Assembly` · `Python` · `Flask` · `React`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=3" width="100%" />
 
 <div align="center">
 
 ### 💬 `let's connect`
 
+<a href="./Fahad_Yousaf_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-58a6ff?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 <a href="https://fahadyousaf.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:fahadyousaf90@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/fahad90fa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
 
-*Open to collaborations, security research & high-impact opportunities.*
+*Open to penetration testing, red team & offensive security roles — authorized engagements only.*
 
 </div>
 
